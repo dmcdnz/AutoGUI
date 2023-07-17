@@ -1,0 +1,2 @@
+C:\Users\david\Documents\GitHub\AutoGUI\obj\Debug\AutoGUI.njsproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\AutoGUI\bin\Microsoft.NodejsTools.WebRole.dll
